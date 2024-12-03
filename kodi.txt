@@ -24,6 +24,8 @@ plugin://script.module.horus?action=play&id=83c6c4942d69f4aa324aa746c5d7dbfd7d15
 plugin://script.module.horus?action=play&id=f31a586422c9244196c810c84b6c85da350318a5
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 1080  ebe1
 plugin://script.module.horus?action=play&id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3", M+ LaLiga 4 1080  6869
+plugin://script.module.horus?action=play&id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080  608b
 plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080  94d3
@@ -40,8 +42,6 @@ plugin://script.module.horus?action=play&id=8c8c1e047a1c5ed213ba74722a5345dc55c3
 plugin://script.module.horus?action=play&id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 720 MultiAudio  51db
 plugin://script.module.horus?action=play&id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3", M+ LaLiga 4 1080  eee6
-plugin://script.module.horus?action=play&id=eee6144058d6106c243cbde774b05bff4a704a86
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG4", M+ LaLiga 5 1080  5353
 plugin://script.module.horus?action=play&id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG5", M+ LaLiga 6 1080  c896
