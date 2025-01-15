@@ -54,8 +54,8 @@ LaLiga Smartbank 3
 fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 M.Plus 1080
 56ac8e227d526e722624675ccdd91b0cc850582f
-Copa Especial
-938a1f2260df6cbc4a3fc2bacea323ab3ecf1788
+Copa Especial 15-01-2025
+f785c45f32379c3b0e332c20bbd05a7fb311e8d1
 Copa 1080
 f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 Copa 720
@@ -156,6 +156,8 @@ PPVP 3
 ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 PPVP 4
 7cf437be950f3525e735be57c63f7824cab822c9
+Copa Especial
+938a1f2260df6cbc4a3fc2bacea323ab3ecf1788
 M. LaLiga 5 1080
 535394f62a810bc5aeb25be75ea5ff7d03e070b2
 M. LaLiga 6 1080
